@@ -4,7 +4,7 @@
   * 나의 홈페이지 주소 : https://leesalt.tistory.com
   
 ### 시각화 프로젝트
-  * IRIS 데이터 분석해보기 - [LINK](https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
+  * IRIS 데이터 분석해보기 - [LINK](https://github.com/sylee7271/AI_basic_class/20201112_class.html)
 
 ### 캐글 데이터 분석 대회 참여기
   * 데이터 대회 링크
