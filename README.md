@@ -1,7 +1,7 @@
 ## 인공지능 기초 과정
 
 ### 나의 홈페이지
-  * 나의 홈페이지 주소 : https://leesalt.tistory.com
+  * 나의 홈페이지 주소 : https://sylee7271.github.io/AI_basic_class/
   
 ### 시각화 프로젝트
   * IRIS 데이터 분석해보기 - [LINK](https://sylee7271.github.io/AI_basic_class/20201112_class.html)
